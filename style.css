@@ -1,47 +1,47 @@
 body{
-    /*UPDATE: add a background color or image here*/
-   background-image: linear-gradient(to bottom right, sandybrown, pink);
+  /*UPDATE: add a background color or image here*/
+ background-image: linear-gradient(to bottom right, sandybrown, pink);
+ text-align: center;
+ }
+ 
+ #titleText{
+   /*UPDATE: change the text size, color, font (optional) here*/
+   font-family: cursive; 
+   font-size: 3em;
+   color: darkslategrey;
+   /*UPDATE: center align the text here*/
    text-align: center;
-   }
-   
-   #titleText{
-     /*UPDATE: change the text size, color, font (optional) here*/
-     font-family: cursive; 
-     font-size: 3em;
-     color: darkslategrey;
-     /*UPDATE: center align the text here*/
-     text-align: center;
-     /*font from Google Fonts: https://fonts.google.com/specimen/Open+Sans?preview.text_type=custom*/
-   }
-   
-   h3{
-     font-family: fantasy;
-     color: floralwhite
-   }
-   
-   .mainImages{
-     /*UPDATE: change the image size here */
-     max-width: 70%;
-     border-radius: 20%;
-     border: 10px solid antiquewhite;
-     /*UPDATE: center the image here*/
-     display: block;
-     margin-left:auto;
-     margin-right: auto;
-     margin-bottom: 1em;
-   }
-   
-   #motivateButton {
-     color: darkred ;
-     font-size: 1.3em;
-     padding: 1em;
-     background-color: rgb(248, 181, 126);
-     font-family: fantasy;
-     border-radius: 12%;
-   }
-   
-   #motivateButton:hover {
-     background-color: pink;
-   }
-   
-   
+   /*font from Google Fonts: https://fonts.google.com/specimen/Open+Sans?preview.text_type=custom*/
+ }
+ 
+ h3{
+   font-family: fantasy;
+   color: floralwhite
+ }
+ 
+ .mainImages{
+   /*UPDATE: change the image size here */
+   max-width: 70%;
+   border-radius: 20%;
+   border: 10px solid antiquewhite;
+   /*UPDATE: center the image here*/
+   display: block;
+   margin-left:auto;
+   margin-right: auto;
+   margin-bottom: 1em;
+ }
+ 
+ #motivateButton {
+   color: darkred ;
+   font-size: 1.3em;
+   padding: 1em;
+   background-color: rgb(248, 181, 126);
+   font-family: fantasy;
+   border-radius: 12%;
+ }
+ 
+ #motivateButton:hover {
+   background-color: pink;
+ }
+ 
+ 
