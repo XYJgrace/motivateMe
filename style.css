@@ -8,7 +8,7 @@ body{
    /*UPDATE: change the text size, color, font (optional) here*/
    font-family: cursive; 
    font-size: 3em;
-   color: darkslategrey;
+   color: rgb(8, 106, 106);
    /*UPDATE: center align the text here*/
    text-align: center;
    /*font from Google Fonts: https://fonts.google.com/specimen/Open+Sans?preview.text_type=custom*/
